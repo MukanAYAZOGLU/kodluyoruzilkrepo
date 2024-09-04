@@ -21,4 +21,4 @@ Pull rewuestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![İlk Repo Ekran Görüntüsü]()
+![İlk Repo Ekran Görüntüsü](https://github.com/MukanAYAZOGLU/kodluyoruzilkrepo/blob/main/Kodluyoruz%C4%B0lkRepoCalismasi.png)
